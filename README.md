@@ -8,11 +8,100 @@
 
 *Comencemos*
 
+**1250 p:**
+Además de encontrar el error , escribe el código necesario para que quede en formato de Html5.
+
+~~~html
+<p> hola <a> </p> </a>
+~~~
+
+**1300 p:**
+Cuál es el error?
+
+~~~html
+<!DOCTYPE html>
+<html>
+<body>
+    <title></title>
+</body>
+<head>
+
+
+</head>
+</html>
+~~~
+
+**1350 p:**
+Qué le falta al siguiente código para que no se vean esos caractéres extraños en la página?
+
+~~~html
+<!DOCTYPE html>
+<html>
+<head>
+
+</head>
+<body>
+    <p > Mi nombre es Antonio Núñez López</p>
+
+</body>
+</html>
+~~~
+
+![img metacharset](images/1350 p.png)
+
+**50 p:**
+Qué le falta al siguiente código para que el título de la página (en el tab), se vea exactamente como en la imagen ?
+ 
+![imagen titulo acento](images/50 p.png)
+
+~~~html
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+
+</body>
+</html>
+~~~
+
+**50.2 p:**
+Cuál es el error?
+
+~~~html
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title></title>
+	<link rel="stylesheet" href="">
+</head>
+<h1> Título 1 </h1>
+<body>
+
+</body>
+</html>
+~~~
+
 **100 p:**
 Cuál es el error?
 
 ~~~html
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title></title>
+	<link rel="stylesheet" href="">
+</head>
+<body>
+
 <p hola> </p>
+
+</body>
+</html>
 
 ~~~
 
@@ -20,25 +109,59 @@ Cuál es el error?
 Cuál es el error?
 
 ~~~html
+<!DOCTYPE html>
+<html>
 <head>
-<p> hola </p>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title></title>
+	<link rel="stylesheet" href="">
+	<p> hola </p>
 </head>
+<body>
+
+</body>
+</html>
 ~~~
 
 **300 p:**
 Cuál es el error?
 
 ~~~html
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title></title>
+	<link rel="stylesheet" href="">
+</head>
 <body>
+
 <a href="Soy un link"> www.google.cl </a>
+
 </body>
+</html>
 ~~~
 
 **400 p:**
 Cuál es el error?
 
 ~~~html
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title></title>
+	<link rel="stylesheet" href="">
+</head>
+<body>
+
 <p color="red"> Párrafo rojo </p>
+
+</body>
+</html>
 
 ~~~
 
@@ -46,7 +169,20 @@ Cuál es el error?
 Cuál es el error?
 
 ~~~html
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title></title>
+	<link rel="stylesheet" href="">
+</head>
+<body>
+
 <p style="color:red> Párrafo rojo </p>
+
+</body>
+</html>
 
 ~~~
 
@@ -54,10 +190,21 @@ Cuál es el error?
 Cuál es el error?
 
 ~~~html
+<!DOCTYPE html>
+<html>
 <head>
-  <meta>
-  <tile> Feliz Año </title>
+
 </head>
+<body>
+
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title></title>
+	<link rel="stylesheet" href="">
+
+
+</body>
+</html>
 ~~~
 
 **700 p:**
@@ -114,7 +261,7 @@ Si no carga la foto que está en la carpeta images , Cual es el motivo?
 <img src="/foto.png">
 ~~~
 
-**1200**
+**1200 p:**
 Cuál es el error?
 
 ~~~html
@@ -122,46 +269,6 @@ Cuál es el error?
     <a href="http://www.google.cl"> hola </a>
 </img>
 ~~~
-**1250**
-Además de encontrar el error , escribe el código necesario para que quede en formato de Html5.
-
-~~~html
-<p> hola <a> </p> </a>
-~~~
-
-**1300**
-Cuál es el error?
-
-~~~html
-<!DOCTYPE html>
-<html>
-<body>
-    <title></title>
-</body>
-<head>
-
-
-</head>
-</html>
-~~~
-
-**1350**
-Qué le falta al siguiente código para que no se vean esos caractéres extraños en la página?
-
-~~~html
-<!DOCTYPE html>
-<html>
-<head>
-
-</head>
-<body>
-    <p > Mi nombre es Antonio Núñez López</p>
-
-</body>
-</html>
-~~~
-
-![img metacharset](images/1350 p.png)
 
 
 
