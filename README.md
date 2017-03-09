@@ -350,8 +350,8 @@ Hay una foto en la carpeta images, la cual no carga :cold_sweat: se pide arregla
 </html>
 ~~~
 
-**12000 p:**
-Cuáles son los errores?
+##Ejercicio 17:
+La estructura de la siguiente página web tiene diversos errores, puedes encontrarlo y arreglarlos?
 
 ~~~html
 <!DOCTYPE html>
@@ -370,7 +370,7 @@ Cuáles son los errores?
 </html>
 ~~~
 
-**15000 p:**
+##Ejercicio 18:
 Qué le falta a mi código para que el logo sea un hipervínculo y redirija hacia http://desafiolatam.com?
 
 ~~~html
