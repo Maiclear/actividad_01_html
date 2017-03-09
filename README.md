@@ -2,21 +2,28 @@
 
 *INSTRUCCIONES*:
 
-- Forkea el siguiente repositorio y **corrige** los siguiente errores de código de manera local.
+- Para poder realizar este actividad debes haber realizado los cursos previos junto con haber visto los videos online correspondientes a la experiencia 1 
+
+- Para realizar esta actividad debes realizar un **fork** de este repositorio, luego clonar el fork y **corregir** los errores de código de manera local con sublime.
 - Luego guarda los cambios y súbelos a un repositorio de github.
 - Luego de pusheados los últimos cambios, sube el link de Github en el desafío de la sección correspondiente en la plataforma.
 
 *Comencemos*
 
-**12500 p:**
-Además de encontrar el error de escritura de código, escribe el código necesario para que quede en formato de Html5.
+##Ejercicio 1:
+Además de encontrar el error de escritura de código, escribe el código necesario para que la página web quede con la estructura necesaria para HTML5
+
+Hint: Puedes utlizar el validador de la w3c para verificar el resultado
+
+[https://validator.w3.org/#validate\_by\_input
+](https://validator.w3.org/#validate_by_input)
 
 ~~~html
 <p> <span> hola </p> </span>
 ~~~
 
-**13000 p:**
-Cuál es el error?
+##Ejercicio 2:
+¿Cuál es el error en el siguiente archivo HTML?
 
 ~~~html
 <!DOCTYPE html>
@@ -26,31 +33,31 @@ Cuál es el error?
 </body>
 <head>
 
+<p> hola ! </p>
 
 </head>
 </html>
 ~~~
 
-**13500 p:**
+##Ejercicio 3:
 Qué le falta al siguiente código para que no se vean esos caractéres extraños en la página?
 
 ~~~html
 <!DOCTYPE html>
 <html>
 <head>
-
 </head>
+
 <body>
-
-	<p > Mi nombre es Antonio Núñez López</p>
-
+	<p> Mi nombre es Antonio Núñez López</p>
 </body>
 </html>
 ~~~
 
 ![img metacharset](images/13500 p.png)
 
-**500 p:**
+##Ejercicio 4:
+
 Qué le falta al siguiente código para que el título de la página (en el tab), se vea **exactamente** como en la imagen ?
  
 ![imagen titulo acento](images/500 p.png)
@@ -66,8 +73,8 @@ Qué le falta al siguiente código para que el título de la página (en el tab)
 </html>
 ~~~
 
-**500.2 p:**
-Cuál es el error?
+##Ejercicio 5:
+¿Qué error hay en la siguiente página web?
 
 ~~~html
 <!DOCTYPE html>
@@ -85,8 +92,9 @@ Cuál es el error?
 </html>
 ~~~
 
-**14000 p:**
-Por qué no se ven los saltos de línea?
+##Ejercicio 6:
+¿Por qué no se ven los saltos de línea? 
+Se pide implementar los cambios necesarios para que visualmente se pueden ver los párrafos.
 
 ![imagen sin parrafos](images/14000 p.png)
 
