@@ -108,7 +108,7 @@ Qué le falta al href para que te redirecciones al link deseado?
 ~~~
 
 **1100 p:**
-Si no carga la foto que está en la carpeta , Cual es el motivo?
+Si no carga la foto que está en la carpeta images , Cual es el motivo?
 
 ~~~html
 <img src="/foto.png">
@@ -122,15 +122,47 @@ Cuál es el error?
     <a href="http://www.google.cl"> hola </a>
 </img>
 ~~~
-
-**1300**
+**1250**
 Además de encontrar el error , escribe el código necesario para que quede en formato de Html5.
 
 ~~~html
 <p> hola <a> </p> </a>
 ~~~
 
+**1300**
+Cuál es el error?
+
+~~~html
+<!DOCTYPE html>
+<html>
+<body>
+    <title></title>
+</body>
+<head>
+
+
+</head>
+</html>
+~~~
+
 **1350**
+Qué le falta al siguiente código para que no se vean esos caractéres extraños en la página?
+
+~~~html
+<!DOCTYPE html>
+<html>
+<head>
+
+</head>
+<body>
+    <p > Mi nombre es Antonio Núñez López</p>
+
+</body>
+</html>
+~~~
+
+![img metacharset](images/1350 p.png)
+
 
 
 
