@@ -12,7 +12,7 @@
 Además de encontrar el error de escritura de código, escribe el código necesario para que quede en formato de Html5.
 
 ~~~html
-<h2> hola <p> </h2> sub titular </p>
+<p> <span> hola </p> </span>
 ~~~
 
 **13000 p:**
