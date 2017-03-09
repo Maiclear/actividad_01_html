@@ -115,8 +115,8 @@ Se pide implementar los cambios necesarios para que visualmente se pueden ver lo
 </html>
 ~~~
 
-**1000 p:**
-Cuál es el error?
+##Ejercicio 7:
+Encontrar el error en la siguiente página web y corregirlo.
 
 ~~~html
 <!DOCTYPE html>
@@ -128,15 +128,13 @@ Cuál es el error?
 	<link rel="stylesheet" href="">
 </head>
 <body>
-
 	<p hola> </p>
-
 </body>
 </html>
 ~~~
 
-**2000 p:**
-Cuál es el error?
+##Ejercicio 8:
+Encontrar el error en la siguiente página web y corregirlo.
 
 ~~~html
 <!DOCTYPE html>
@@ -154,8 +152,8 @@ Cuál es el error?
 </html>
 ~~~
 
-**3000 p:**
-Cuál es el error?
+##Ejercicio 9:
+Encontrar el error en la siguiente página web y corregirlo.
 
 ~~~html
 <!DOCTYPE html>
@@ -174,8 +172,9 @@ Cuál es el error?
 </html>
 ~~~
 
-**4000 p:**
-Cuál es el error?
+##Ejercicio 10:
+Encontrar el error en la siguiente página web y corregirlo.
+
 
 ~~~html
 <!DOCTYPE html>
@@ -195,8 +194,8 @@ Cuál es el error?
 
 ~~~
 
-**5000 p:**
-Cuál es el error?
+##Ejercicio 11:
+Encontrar el error en la siguiente página web y corregirlo.
 
 ~~~html
 <!DOCTYPE html>
@@ -215,8 +214,8 @@ Cuál es el error?
 </html>
 ~~~
 
-**6000 p:**
-Cuál es el error?
+##Ejercicio 12:
+¿Cuál es el error?
 
 ~~~html
 <!DOCTYPE html>
@@ -235,7 +234,7 @@ Cuál es el error?
 </html>
 ~~~
 
-**7000 p:**
+##Ejercicio 13:
 Cuál es el error?
 
 ~~~html
@@ -261,8 +260,8 @@ Cuál es el error?
  </html>
 ~~~
 
-**8000 p:**
-Cuál es el error?:
+##Ejercicio 14:
+¿Cuál es el error?:
 
 ~~~html
 <!DOCTYPE html>
@@ -290,8 +289,8 @@ Cuál es el error?:
 </html>
 ~~~
 
-**9000 p:**
-Cuál es el error?
+##Ejercicio 15:
+¿Cuál es el error?
 
 ~~~html
 <!DOCTYPE html>
@@ -310,8 +309,8 @@ Cuál es el error?
 </html>
 ~~~
 
-**10000 p:**
-Qué le falta al href para que te redirecciones al link deseado?
+##Ejercicio 16:
+¿Qué le falta al href del link para que te redirecciones al link deseado?
 
 ~~~html
 <!DOCTYPE html>
