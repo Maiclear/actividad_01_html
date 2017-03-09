@@ -329,8 +329,9 @@ Cuál es el error?
 </html>
 ~~~
 
-**11000 p:**
-Si no carga la foto que está en la carpeta images , Cual es el motivo?
+
+##Ejercicio 17:
+Hay una foto en la carpeta images, la cual no carga :cold_sweat: se pide arreglar la carga.
 
 ~~~html
 <!DOCTYPE html>
@@ -343,7 +344,7 @@ Si no carga la foto que está en la carpeta images , Cual es el motivo?
 </head>
 <body>
 
-	<img src="/logo.png">
+	<img src="/llama.png">
 
 </body>
 </html>
