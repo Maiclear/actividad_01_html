@@ -388,7 +388,8 @@ Qué le falta a mi código para que el logo sea un hipervínculo y redirija haci
 </html>
 ~~~
 
-**16000 p:**
+
+##Ejercicio 19:
 Cómo se arregla el código para que sólo la palabra "Tempore" sea un link?
 
 ![imagen de tempore link](images/16000 p.png)
@@ -409,7 +410,7 @@ Cómo se arregla el código para que sólo la palabra "Tempore" sea un link?
 </html>
 ~~~
 
-**17000 p:**
+##Ejercicio 20:
 Cual es el error?
 
 ~~~html
@@ -431,7 +432,7 @@ Cual es el error?
 ~~~
 
 
-**18000 p:**
+##Ejercicio 21:
 Corrige todos los errores (Hint: son 7)
 
 ~~~html
@@ -458,8 +459,9 @@ Corrige todos los errores (Hint: son 7)
 <html>
 ~~~
 
-**19000 p:**
-Cuál es el error?
+
+##Ejercicio 22:
+¿Cuál es el error?
 
 ~~~html
 <!DOCTYPE html>
@@ -472,8 +474,9 @@ Cuál es el error?
 </body>
 </html>
 ~~~
-**100000 p:**
-Cuál es el error?
+
+##Ejercicio 23:
+¿Cuál es el error?
 
 ~~~html
 <!DOCTYPE html>
@@ -487,8 +490,8 @@ Cuál es el error?
 </html>
 ~~~
 
-**101000 p:**
-Cuál es el error?
+##Ejercicio 24:
+¿Cuál es el error?
 
 ~~~html
 <!DOCTYPE html>
@@ -502,7 +505,7 @@ Cuál es el error?
 </html>
 ~~~
 
-**102000 p:**
+##Ejercicio 25:
 Cuál es el error?
 
 ~~~html
@@ -517,8 +520,8 @@ Cuál es el error?
 </html>
 ~~~
 
-**103000 p:**
-Cuál es el error (o errores)?
+##Ejercicio 26:
+¿Cuál es el error (o errores)?
 
 ~~~html
 <!DOCTYPE html>
@@ -533,7 +536,7 @@ Cuál es el error (o errores)?
 </html>
 ~~~
 
-**104000 p:**
+##Ejercicio 27:
 Qué le agregarías al código para que sólo el primer párrafo sea rojo?
 
 ~~~html
@@ -551,7 +554,7 @@ Qué le agregarías al código para que sólo el primer párrafo sea rojo?
 </html>
 ~~~
 
-**105000 p:**
+##Ejercicio 28:
 Agrega estilo en el head (no inline), para que los párrafos sean de color verde 
 
 ~~~html
@@ -567,7 +570,7 @@ Agrega estilo en el head (no inline), para que los párrafos sean de color verde
 </html>
 ~~~
 
-**106000 p:**
+##Ejercicio 29:
 Cuál es el error?
 
 ~~~html
@@ -585,8 +588,8 @@ Cuál es el error?
 </html>
 ~~~
 
-**107000 p:**
-Cuál es el error?
+##Ejercicio 30:
+¿Cuál es el error?
 
 ~~~html
 <!DOCTYPE html>
@@ -604,7 +607,7 @@ Cuál es el error?
 </html>
 ~~~
 
-**108000 p:**
+##Ejercicio 31:
 Cuál es el error?
 
 ~~~html
@@ -628,8 +631,8 @@ Cuál es el error?
 </html>
 ~~~
 
-**108500 p:**
-Cuál es el error?
+##Ejercicio 32:
+¿Cuál es el error?
 
 ~~~html
 <!DOCTYPE html>
@@ -651,8 +654,8 @@ Cuál es el error?
 </html>
 ~~~
 
-**109000 p:**
-Por qué el primer párrafo se ve azúl?
+##Ejercicio 33:
+¿Por qué el primer párrafo se ve azúl?
 Escribe en el archivo la respuesta como comentario en el código.
 
 ~~~html
@@ -675,8 +678,8 @@ Escribe en el archivo la respuesta como comentario en el código.
 </html>
 ~~~
 
-**110000 p:**
-Agrega alcódigo el css necesario para uqe todos los divs tengan color de **fondo** amarillo, y que sólo el primer párrafo tenga la letra de color blanco
+##Ejercicio 34:
+Agrega al código el CSS necesario para que todos las etiquetas divs tengan color de **fondo** amarillo, y que sólo el primer párrafo tenga la letra de color blanco
 
 ~~~html
 <!DOCTYPE html>
@@ -707,7 +710,7 @@ Agrega alcódigo el css necesario para uqe todos los divs tengan color de **fond
 </html>
 ~~~ 
 
-**111000 p:**
+##Ejercicio 35:
 Agrega estilo a la imagen para que tenga tamaño de 20px.
 
 ~~~html
@@ -727,7 +730,7 @@ Agrega estilo a la imagen para que tenga tamaño de 20px.
 </html>
 ~~~
 
-**112000 p:**
+##Ejercicio 36:
 Cuál es el error?
 
 ~~~html
@@ -752,9 +755,10 @@ Cuál es el error?
 </html>
 ~~~
 
-**113000 p:**
-Cuales son los errores?
-Y corrige para que sólo el h1 tenga la tipografía Slabo.
+##Ejercicio 37:
+
+¿Cuales son los errores?
+Además modifica el código para que sólo al etiqueta h1 tenga la tipografía Slabo.
 
 ~~~html
 <!DOCTYPE html>
@@ -777,6 +781,9 @@ Y corrige para que sólo el h1 tenga la tipografía Slabo.
 </body>
 </html>
 ~~~
+
+
+##Ejercicio 38:
 
 
 **114000 p:**
