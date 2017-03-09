@@ -8,14 +8,14 @@
 
 *Comencemos*
 
-**1250 p:**
+**12500 p:**
 Además de encontrar el error de escritura de código, escribe el código necesario para que quede en formato de Html5.
 
 ~~~html
 <h2> hola <p> </h2> sub titular </p>
 ~~~
 
-**1300 p:**
+**13000 p:**
 Cuál es el error?
 
 ~~~html
@@ -31,7 +31,7 @@ Cuál es el error?
 </html>
 ~~~
 
-**1350 p:**
+**13500 p:**
 Qué le falta al siguiente código para que no se vean esos caractéres extraños en la página?
 
 ~~~html
@@ -48,12 +48,12 @@ Qué le falta al siguiente código para que no se vean esos caractéres extraño
 </html>
 ~~~
 
-![img metacharset](images/1350 p.png)
+![img metacharset](images/13500 p.png)
 
-**50 p:**
+**500 p:**
 Qué le falta al siguiente código para que el título de la página (en el tab), se vea **exactamente** como en la imagen ?
  
-![imagen titulo acento](images/50 p.png)
+![imagen titulo acento](images/500 p.png)
 
 ~~~html
 <!DOCTYPE html>
@@ -66,7 +66,7 @@ Qué le falta al siguiente código para que el título de la página (en el tab)
 </html>
 ~~~
 
-**50.2 p:**
+**500.2 p:**
 Cuál es el error?
 
 ~~~html
@@ -85,10 +85,10 @@ Cuál es el error?
 </html>
 ~~~
 
-**1400 p:**
+**14000 p:**
 Por qué no se ven los saltos de línea?
 
-![imagen sin parrafos](images/1400 p.png)
+![imagen sin parrafos](images/14000 p.png)
 
 ~~~html
 <!DOCTYPE html>
@@ -107,7 +107,7 @@ Por qué no se ven los saltos de línea?
 </html>
 ~~~
 
-**100 p:**
+**1000 p:**
 Cuál es el error?
 
 ~~~html
@@ -127,7 +127,7 @@ Cuál es el error?
 </html>
 ~~~
 
-**200 p:**
+**2000 p:**
 Cuál es el error?
 
 ~~~html
@@ -146,7 +146,7 @@ Cuál es el error?
 </html>
 ~~~
 
-**300 p:**
+**3000 p:**
 Cuál es el error?
 
 ~~~html
@@ -166,7 +166,7 @@ Cuál es el error?
 </html>
 ~~~
 
-**400 p:**
+**4000 p:**
 Cuál es el error?
 
 ~~~html
@@ -187,7 +187,7 @@ Cuál es el error?
 
 ~~~
 
-**500 p:**
+**5000 p:**
 Cuál es el error?
 
 ~~~html
@@ -207,7 +207,7 @@ Cuál es el error?
 </html>
 ~~~
 
-**600 p:**
+**6000 p:**
 Cuál es el error?
 
 ~~~html
@@ -227,7 +227,7 @@ Cuál es el error?
 </html>
 ~~~
 
-**700 p:**
+**7000 p:**
 Cuál es el error?
 
 ~~~html
@@ -253,7 +253,7 @@ Cuál es el error?
  </html>
 ~~~
 
-**800 p:**
+**8000 p:**
 Cuál es el error?:
 
 ~~~html
@@ -282,7 +282,7 @@ Cuál es el error?:
 </html>
 ~~~
 
-**900 p:**
+**9000 p:**
 Cuál es el error?
 
 ~~~html
@@ -302,7 +302,7 @@ Cuál es el error?
 </html>
 ~~~
 
-**1000 p:**
+**10000 p:**
 Qué le falta al href para que te redirecciones al link deseado?
 
 ~~~html
@@ -322,7 +322,7 @@ Qué le falta al href para que te redirecciones al link deseado?
 </html>
 ~~~
 
-**1100 p:**
+**11000 p:**
 Si no carga la foto que está en la carpeta images , Cual es el motivo?
 
 ~~~html
@@ -342,7 +342,7 @@ Si no carga la foto que está en la carpeta images , Cual es el motivo?
 </html>
 ~~~
 
-**1200 p:**
+**12000 p:**
 Cuáles son los errores?
 
 ~~~html
@@ -362,7 +362,7 @@ Cuáles son los errores?
 </html>
 ~~~
 
-**1500 p:**
+**15000 p:**
 Qué le falta a mi código para que el logo sea un hipervínculo y redirija hacia http://desafiolatam.com?
 
 ~~~html
@@ -380,10 +380,10 @@ Qué le falta a mi código para que el logo sea un hipervínculo y redirija haci
 </html>
 ~~~
 
-**1600 p:**
+**16000 p:**
 Cómo se arregla el código para que sólo la palabra "Tempore" sea un link?
 
-![imagen de tempore link](images/1600 p.png)
+![imagen de tempore link](images/16000 p.png)
 
 ~~~html
 <!DOCTYPE html>
@@ -401,7 +401,7 @@ Cómo se arregla el código para que sólo la palabra "Tempore" sea un link?
 </html>
 ~~~
 
-**1700 p:**
+**17000 p:**
 Cual es el error?
 
 ~~~html
@@ -423,7 +423,7 @@ Cual es el error?
 ~~~
 
 
-**1800 p:**
+**18000 p:**
 Corrige todos los errores (Hint: son 7)
 
 ~~~html
@@ -450,7 +450,7 @@ Corrige todos los errores (Hint: son 7)
 <html>
 ~~~
 
-**1900 p:**
+**19000 p:**
 Cuál es el error?
 
 ~~~html
@@ -464,7 +464,7 @@ Cuál es el error?
 </body>
 </html>
 ~~~
-**10000 p:**
+**100000 p:**
 Cuál es el error?
 
 ~~~html
@@ -479,7 +479,7 @@ Cuál es el error?
 </html>
 ~~~
 
-**10100 p:**
+**101000 p:**
 Cuál es el error?
 
 ~~~html
@@ -494,7 +494,7 @@ Cuál es el error?
 </html>
 ~~~
 
-**10200 p:**
+**102000 p:**
 Cuál es el error?
 
 ~~~html
@@ -509,7 +509,7 @@ Cuál es el error?
 </html>
 ~~~
 
-**10300 p:**
+**103000 p:**
 Cuál es el error (o errores)?
 
 ~~~html
@@ -525,7 +525,7 @@ Cuál es el error (o errores)?
 </html>
 ~~~
 
-**10400 p:**
+**104000 p:**
 Qué le agregarías al código para que sólo el primer párrafo sea rojo?
 
 ~~~html
@@ -543,7 +543,7 @@ Qué le agregarías al código para que sólo el primer párrafo sea rojo?
 </html>
 ~~~
 
-**10500 p:**
+**105000 p:**
 Agrega estilo en el head (no inline), para que los párrafos sean de color verde 
 
 ~~~html
@@ -559,7 +559,7 @@ Agrega estilo en el head (no inline), para que los párrafos sean de color verde
 </html>
 ~~~
 
-**10600 p:**
+**106000 p:**
 Cuál es el error?
 
 ~~~html
@@ -577,7 +577,7 @@ Cuál es el error?
 </html>
 ~~~
 
-**10700 p:**
+**107000 p:**
 Cuál es el error?
 
 ~~~html
@@ -596,7 +596,7 @@ Cuál es el error?
 </html>
 ~~~
 
-**10800 p:**
+**108000 p:**
 Cuál es el error?
 
 ~~~html
@@ -620,7 +620,7 @@ Cuál es el error?
 </html>
 ~~~
 
-**10850 p:**
+**108500 p:**
 Cuál es el error?
 
 ~~~html
@@ -643,7 +643,7 @@ Cuál es el error?
 </html>
 ~~~
 
-**10900 p:**
+**109000 p:**
 Por qué el primer párrafo se ve azúl?
 Escribe en el archivo la respuesta como comentario en el código.
 
@@ -667,7 +667,7 @@ Escribe en el archivo la respuesta como comentario en el código.
 </html>
 ~~~
 
-**11000 p:**
+**110000 p:**
 Agrega alcódigo el css necesario para uqe todos los divs tengan color de **fondo** amarillo, y que sólo el primer párrafo tenga la letra de color blanco
 
 ~~~html
@@ -699,7 +699,7 @@ Agrega alcódigo el css necesario para uqe todos los divs tengan color de **fond
 </html>
 ~~~ 
 
-**11100 p:**
+**111000 p:**
 Agrega estilo a la imagen para que tenga tamaño de 20px.
 
 ~~~html
@@ -719,7 +719,7 @@ Agrega estilo a la imagen para que tenga tamaño de 20px.
 </html>
 ~~~
 
-**11200 p:**
+**112000 p:**
 Cuál es el error?
 
 ~~~html
@@ -744,7 +744,7 @@ Cuál es el error?
 </html>
 ~~~
 
-**11300 p:**
+**113000 p:**
 Cuales son los errores?
 Y corrige para que sólo el h1 tenga la tipografía Slabo.
 
@@ -771,7 +771,7 @@ Y corrige para que sólo el h1 tenga la tipografía Slabo.
 ~~~
 
 
-**11400 p:**
+**114000 p:**
 Cuál es el error?
 
 ~~~html
