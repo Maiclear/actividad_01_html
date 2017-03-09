@@ -9,10 +9,10 @@
 *Comencemos*
 
 **1250 p:**
-Además de encontrar el error , escribe el código necesario para que quede en formato de Html5.
+Además de encontrar el error de escritura de código, escribe el código necesario para que quede en formato de Html5.
 
 ~~~html
-<p> hola <a> </p> </a>
+<h2> hola <p> </h2> sub titular </p>
 ~~~
 
 **1300 p:**
@@ -749,6 +749,25 @@ Y corrige para que sólo el h1 tenga la tipografía Slabo.
 ~~~
 
 
+**11400 p:**
+Cuál es el error?
+
+~~~html
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title></title>
+	<link rel="stylesheet" href="">
+</head>
+<body>
+	<div style="background-color:rgb(red)">
+		 <p>  ¿Es el fondo de color Rojo?  </p>
+	</div>
+</body>
+</html>
+~~~
 
 
 
