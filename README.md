@@ -124,6 +124,13 @@ Cuál es el error?
 ~~~
 
 **1300**
+Además de encontrar el error , escribe el código necesario para que quede en formato de Html5.
+
+~~~html
+<p> hola <a> </p> </a>
+~~~
+
+**1350**
 
 
 
