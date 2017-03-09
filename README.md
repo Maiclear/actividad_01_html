@@ -51,7 +51,7 @@ Qué le falta al siguiente código para que no se vean esos caractéres extraño
 ![img metacharset](images/1350 p.png)
 
 **50 p:**
-Qué le falta al siguiente código para que el título de la página (en el tab), se vea exactamente como en la imagen ?
+Qué le falta al siguiente código para que el título de la página (en el tab), se vea **exactamente** como en la imagen ?
  
 ![imagen titulo acento](images/50 p.png)
 
@@ -223,7 +223,6 @@ Cuál es el error?
 	<title></title>
 	<link rel="stylesheet" href="">
 
-
 </body>
 </html>
 ~~~
@@ -242,7 +241,7 @@ Cuál es el error?
  </head>
  <body>
 
-	 <h1> Hola </h1>
+	<h1> Hola </h1>
 		Lorem ipsum dolor sit amet, consectetur adipisicing Tempore praesentium dolorum incidunt vitae deserunt quam exercitationem assumenda hic corrupti beatae numquam, labore explicabo quisquam ratione optio necessitatibus impedit porro vero!
 	</p>
 
@@ -561,6 +560,195 @@ Agrega estilo en el head (no inline), para que los párrafos sean de color verde
 ~~~
 
 **10600 p:**
+Cuál es el error?
+
+~~~html
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+</head>
+<body>
+    <div style="color:yellow">
+        <p> Goooooood byeeeee !! </p style="color:red">
+        <p> Holaaaa !!! </p>
+    </div>
+</body>
+</html>
+~~~
+
+**10700 p:**
+Cuál es el error?
+
+~~~html
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<style="color:yellow">	
+</head>
+<body>
+	<div>
+		<p > Hellowww </p>
+		<p> Lorem ipsum dolor sit amet. </p>
+	</div>
+</body>
+</html>
+~~~
+
+**10800 p:**
+Cuál es el error?
+
+~~~html
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<style>
+
+		<p > {
+			color:  green;
+		}
+		</p>
+	</style>
+</head>
+<body>
+	<div>
+		<p> Hellowww </p>
+		<p> Lorem ipsum dolor sit amet. </p>
+	</div>
+</body>
+</html>
+~~~
+
+**10900 p:**
+Por qué el primer párrafo se ve azúl?
+Escribe en el archivo la respuesta como comentario en el código.
+
+~~~html
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<style>
+		p {
+			color: red;
+		}
+	</style>
+</head>
+<body>
+	<div>
+		<p style="color:blue"> Hellowww </p>
+		<p> Goooooood byeeeee !! </p>
+	</div>
+</body>
+</html>
+~~~
+
+**11000 p:**
+Agrega alcódigo el css necesario para uqe todos los divs tengan color de **fondo** amarillo, y que sólo el primer párrafo tenga la letra de color blanco
+
+~~~html
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<style>
+		p {
+			color: red;
+		}
+	</style>
+</head>
+<body>
+	<div>
+		<p> Hellowww </p>
+	</div>
+
+	<div>
+		<p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+		tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+		quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+		consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+		cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+		proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+		<p> Goooooood byeeeee !! </p>
+	</div>
+</body>
+</html>
+~~~ 
+
+**11100 p:**
+Agrega estilo a la imagen para que tenga tamaño de 20px.
+
+~~~html
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title></title>
+	<link rel="stylesheet" href="">
+</head>
+<body>
+
+	<img src="images/logo.png" alt="logo desafio latam" >
+
+</body>
+</html>
+~~~
+
+**11200 p:**
+Cuál es el error?
+
+~~~html
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title></title>
+	<link rel="stylesheet" href="">
+	<style>
+		src {
+			width: 30px;
+		}
+	</style>
+</head>
+<body>
+
+	<img src="images/logo.png" alt="logo desafio latam" >
+
+</body>
+</html>
+~~~
+
+**11300 p:**
+Cuales son los errores?
+Y corrige para que sólo el h1 tenga la tipografía Slabo.
+
+~~~html
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title></title>
+	<link rel="stylesheet" href="">
+	<style>
+		font-family: 'Slabo 27px', serif;
+	</style>
+</head>
+<body>
+
+	<img src="images/logo.png" alt="logo desafio latam" >
+	<h1> Deafío Latam </h1>
+	<p> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam quaerat beatae architecto possimus explicabo ex, temporibus, reprehenderit, deserunt alias excepturi quidem molestias, magnam hic asperiores sapiente animi. Ex, provident, consectetur! </p>
+	<link href="https://fonts.googleapis.com/css?family=Slabo+27px" rel="stylesheet">
+</body>
+</html>
+~~~
+
+
 
 
 
