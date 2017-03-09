@@ -606,13 +606,35 @@ Cuál es el error?
 	<meta charset="utf-8">
 	<style>
 
-		<p > {
+		<p> {
 			color:  green;
 		}
-		</p>
 	</style>
 </head>
 <body>
+	<div>
+		<p> Hellowww </p>
+		<p> Lorem ipsum dolor sit amet. </p>
+	</div>
+</body>
+</html>
+~~~
+
+**10850 p:**
+Cuál es el error?
+
+~~~html
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+</head>
+<body>
+	<style>
+		p {
+			color:  green;
+		}
+	</style>
 	<div>
 		<p> Hellowww </p>
 		<p> Lorem ipsum dolor sit amet. </p>
