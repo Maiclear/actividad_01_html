@@ -13,7 +13,7 @@
 ##Ejercicio 1:
 Además de encontrar el error de escritura de código, escribe el código necesario para que la página web quede con la estructura necesaria para HTML5
 
-Hint: Puedes utlizar el validador de la w3c para verificar el resultado
+Hint: Puedes utilizar el validador de la w3c para verificar el resultado
 
 [https://validator.w3.org/#validate\_by\_input
 ](https://validator.w3.org/#validate_by_input)
@@ -40,7 +40,7 @@ Hint: Puedes utlizar el validador de la w3c para verificar el resultado
 ~~~
 
 ##Ejercicio 3:
-Qué le falta al siguiente código para que no se vean esos caractéres extraños en la página?
+Qué le falta al siguiente código para que no se vean esos caracteres extraños en la página?
 
 ~~~html
 <!DOCTYPE html>
@@ -74,14 +74,13 @@ Qué le falta al siguiente código para que el título de la página (en el tab)
 ~~~
 
 ##Ejercicio 5:
-¿Qué error hay en la siguiente página web?
+¿Qué error hay en la estructura de la siguiente página web?
 
 ~~~html
 <!DOCTYPE html>
 <html>
 <head>
 	<meta charset="utf-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<title></title>
 	<link rel="stylesheet" href="">
 </head>
@@ -116,19 +115,16 @@ Se pide implementar los cambios necesarios para que visualmente se pueden ver lo
 ~~~
 
 ##Ejercicio 7:
-Encontrar el error en la siguiente página web y corregirlo.
+Encontrar los errores en la siguiente página web y corregirlo, el texto que debe aparecer en pantalla es Párrafo 1
 
 ~~~html
 <!DOCTYPE html>
 <html>
 <head>
-	<meta charset="utf-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<title></title>
-	<link rel="stylesheet" href="">
 </head>
 <body>
-	<p hola> </p>
+	<p Párrafo 1> </p>
 </body>
 </html>
 ~~~
@@ -141,9 +137,7 @@ Encontrar el error en la siguiente página web y corregirlo.
 <html>
 <head>
 	<meta charset="utf-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<title></title>
-	<link rel="stylesheet" href="">
 	<p> hola </p>
 </head>
 <body>
@@ -153,21 +147,17 @@ Encontrar el error en la siguiente página web y corregirlo.
 ~~~
 
 ##Ejercicio 9:
-Encontrar el error en la siguiente página web y corregirlo.
+Encontrar los errores en la siguiente página web y corregirlo.
 
 ~~~html
 <!DOCTYPE html>
 <html>
 <head>
 	<meta charset="utf-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<title></title>
-	<link rel="stylesheet" href="">
 </head>
 <body>
-
 	<a href="Soy un link"> www.google.cl </a>
-
 </body>
 </html>
 ~~~
@@ -175,20 +165,14 @@ Encontrar el error en la siguiente página web y corregirlo.
 ##Ejercicio 10:
 Encontrar el error en la siguiente página web y corregirlo.
 
-
 ~~~html
 <!DOCTYPE html>
 <html>
 <head>
-	<meta charset="utf-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<title></title>
-	<link rel="stylesheet" href="">
 </head>
 <body>
-
 	<p color="red"> Párrafo rojo </p>
-
 </body>
 </html>
 
@@ -215,36 +199,14 @@ Encontrar el error en la siguiente página web y corregirlo.
 ~~~
 
 ##Ejercicio 12:
-¿Cuál es el error?
-
-~~~html
-<!DOCTYPE html>
-<html>
-<head>
-
-</head>
-<body>
-
-	<meta charset="utf-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title></title>
-	<link rel="stylesheet" href="">
-
-</body>
-</html>
-~~~
-
-##Ejercicio 13:
-Cuál es el error?
+Corrige la estructura de la siguiente página web.
 
 ~~~html
  <!DOCTYPE html>
  <html>
  <head>
  	<meta charset="utf-8">
- 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
  	<title></title>
- 	<link rel="stylesheet" href="">
  </head>
  <body>
 
@@ -260,7 +222,7 @@ Cuál es el error?
  </html>
 ~~~
 
-##Ejercicio 14:
+##Ejercicio 13:
 ¿Cuál es el error?:
 
 ~~~html
@@ -289,28 +251,11 @@ Cuál es el error?
 </html>
 ~~~
 
-##Ejercicio 15:
-¿Cuál es el error?
 
-~~~html
-<!DOCTYPE html>
-<html>
-<head>
-	<meta charset="utf-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title></title>
-	<link rel="stylesheet" href="">
-</head>
-<body>
-
-	<p> hola <a href="#"> Link </p> </a>
-
-</body>
-</html>
-~~~
-
-##Ejercicio 16:
+##Ejercicio 14:
 ¿Qué le falta al href del link para que te redirecciones al link deseado?
+
+Además debes lograr que la imagen funciones como un segundo link redirigiendo a google.
 
 ~~~html
 <!DOCTYPE html>
@@ -324,13 +269,14 @@ Cuál es el error?
 <body>
 
 	<a href="www.desafiolatam.com">link a Desafío Latam!</a>
+	<img alt="logo.png">
 
 </body>
 </html>
 ~~~
 
 
-##Ejercicio 17:
+##Ejercicio 15:
 Hay una foto en la carpeta images, la cual no carga :cold_sweat: se pide arreglar la carga.
 
 ~~~html
@@ -350,7 +296,7 @@ Hay una foto en la carpeta images, la cual no carga :cold_sweat: se pide arregla
 </html>
 ~~~
 
-##Ejercicio 17:
+##Ejercicio 16:
 La estructura de la siguiente página web tiene diversos errores, puedes encontrarlo y arreglarlos?
 
 ~~~html
@@ -370,70 +316,9 @@ La estructura de la siguiente página web tiene diversos errores, puedes encontr
 </html>
 ~~~
 
-##Ejercicio 18:
-Qué le falta a mi código para que el logo sea un hipervínculo y redirija hacia http://desafiolatam.com?
 
-~~~html
-<!DOCTYPE html>
-<html>
-<head>
-	<meta charset="utf-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title></title>
-	<link rel="stylesheet" href="">
-</head>
-<body>
-	<img src="images/logo.png">
-</body>
-</html>
-~~~
-
-
-##Ejercicio 19:
-Cómo se arregla el código para que sólo la palabra "Tempore" sea un link?
-
-![imagen de tempore link](images/16000 p.png)
-
-~~~html
-<!DOCTYPE html>
-<html>
-<head>
-	<meta charset="utf-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title></title>
-	<link rel="stylesheet" href="">
-</head>
-<body>
-	Lorem ipsum dolor sit amet. <a href="https://www.google.cl ">
-	Tempore , consectetur adipisicing elit. Iste nobis expedita placeat possimus iusto eos nisi, dolor, recusandae soluta eaque magnam quam tenetur voluptatem velit animi? Odit laboriosam nesciunt non!
-</body>
-</html>
-~~~
-
-##Ejercicio 20:
-Cual es el error?
-
-~~~html
-<!DOCTYPE html>
-<html>
-<head>
-    <meta charset="utf-8">
-    <title></title>
-    <link rel="stylesheet" href="">
-</head>
-<body>
-    <h1> Título !! </h1>
-    <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae, libero repellendus, temporibus repellat excepturi, aperiam nostrum atque maiores fugit beatae reiciendis vitae. Quibusdam voluptatibus corporis unde, ipsam numquam, nemo assumenda.</p>
-    <img alt="images/logo.png">
-
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Esse aliquam possimus rerum quidem, doloribus sed magnam quae nam neque tenetur repellat at? Voluptas fuga nulla, velit nihil facilis eum quisquam!</p>
-</body>
-</html>
-~~~
-
-
-##Ejercicio 21:
-Corrige todos los errores (Hint: son 7)
+##Ejercicio 17:
+Corrige todos los errores (Hint: son 8)
 
 ~~~html
 <!DOCTYPE html>
@@ -449,7 +334,7 @@ Corrige todos los errores (Hint: son 7)
 		Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet voluptate voluptas odit, sapiente soluta consectetur consequuntur ex est dolores laboriosam repudiandae unde repellat velit quo voluptatibus consequatur perferendis, tempore sunt!
 	</p>
 
-	<a href="desafiolatam.com" ><img src="logo.png" alt="logo"> </a>
+	<a href="desafiolatam.com" ><img alt="logo.png"> </a>
 
 	<p>
 		Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste ex, enim ipsum sequi. Dignissimos libero unde repellendus fugit quidem asperiores, veritatis aliquid vel, a eveniet praesentium labore quia dolor, accusamus?
@@ -459,91 +344,32 @@ Corrige todos los errores (Hint: son 7)
 <html>
 ~~~
 
-
-##Ejercicio 22:
-¿Cuál es el error?
-
-~~~html
-<!DOCTYPE html>
-<html>
-<head>
-    <link rel="stylesheet" href="">
-</head>
-<body>
-    <"p style=color:red"> hola </p>
-</body>
-</html>
-~~~
-
-##Ejercicio 23:
-¿Cuál es el error?
+##Ejercicio 18:
+A veces arreglar un error no es suficiente :grin:. En este caso hay dos errores que tienes que modificar para que el texto aparezca con fondo negro y las letras rojas.
 
 ~~~html
 <!DOCTYPE html>
 <html>
 <head>
     <meta charset="utf-8">
+    <title> 2 errores </title>
 </head>
 <body>
-    <p> style="color:red" hola </p>
+    <p style="calor:red background-color:black"> ¿Los encontraste? </p>
 </body>
 </html>
 ~~~
 
-##Ejercicio 24:
-¿Cuál es el error?
+
+##Ejercicio 19:
+¿Qué cambiarías o agregarías al código para que sólo el primer párrafo sea rojo?
 
 ~~~html
 <!DOCTYPE html>
 <html>
 <head>
     <meta charset="utf-8">
-</head>
-<body>
-    <p style="calor:red"> hola </p>
-</body>
-</html>
-~~~
-
-##Ejercicio 25:
-Cuál es el error?
-
-~~~html
-<!DOCTYPE html>
-<html>
-<head>
-    <meta charset="utf-8">
-</head>
-<body>
-    <p style="color:red background-color:black"> hola </p>
-</body>
-</html>
-~~~
-
-##Ejercicio 26:
-¿Cuál es el error (o errores)?
-
-~~~html
-<!DOCTYPE html>
-<html>
-<head>
-    <meta charset="utf-8">
-</head>
-<body>
-    <p style="color:gren"> hola </p>
-    </p>
-</body>
-</html>
-~~~
-
-##Ejercicio 27:
-Qué le agregarías al código para que sólo el primer párrafo sea rojo?
-
-~~~html
-<!DOCTYPE html>
-<html>
-<head>
-    <meta charset="utf-8">
+    <title> Cascada !! </title>
 </head>
 <body>
     <div style="color:yellow">
@@ -554,24 +380,25 @@ Qué le agregarías al código para que sólo el primer párrafo sea rojo?
 </html>
 ~~~
 
-##Ejercicio 28:
-Agrega estilo en el head (no inline), para que los párrafos sean de color verde 
+##Ejercicio 20:
+
+Agrega estilo en el head (no inline), para que los párrafos sean de color verde.
 
 ~~~html
 <!DOCTYPE html>
 <html>
 <head>
-    <meta charset="utf-8">
+    <head> Go Green </head>
 </head>
 <body>
     <p> Hellowww </p>
-    <p> Goooooood byeeeee !! </p>
+    <p> Además recuerda siempre agregar la codificación </p>
 </body>
 </html>
 ~~~
 
-##Ejercicio 29:
-Cuál es el error?
+##Ejercicio 21:
+Hay un error en el CSS y uno en el HTML, corrígelos.
 
 ~~~html
 <!DOCTYPE html>
@@ -588,26 +415,27 @@ Cuál es el error?
 </html>
 ~~~
 
-##Ejercicio 30:
-¿Cuál es el error?
+##Ejercicio 22:
+Corrige los errores para que el color por defecto sea amarillo y  el color del segundo párrafo sea rojo.
 
 ~~~html
 <!DOCTYPE html>
 <html>
 <head>
 	<meta charset="utf-8">
+	
 	<style="color:yellow">	
 </head>
 <body>
 	<div>
-		<p > Hellowww </p>
-		<p> Lorem ipsum dolor sit amet. </p>
+		<p> Hellowww </p>
+		<p class="color:red"> Lorem ipsum dolor sit amet. </p>
 	</div>
 </body>
 </html>
 ~~~
 
-##Ejercicio 31:
+##Ejercicio 23:
 Cuál es el error?
 
 ~~~html
@@ -631,55 +459,11 @@ Cuál es el error?
 </html>
 ~~~
 
-##Ejercicio 32:
-¿Cuál es el error?
 
-~~~html
-<!DOCTYPE html>
-<html>
-<head>
-	<meta charset="utf-8">
-</head>
-<body>
-	<style>
-		p {
-			color:  green;
-		}
-	</style>
-	<div>
-		<p> Hellowww </p>
-		<p> Lorem ipsum dolor sit amet. </p>
-	</div>
-</body>
-</html>
-~~~
 
-##Ejercicio 33:
-¿Por qué el primer párrafo se ve azúl?
-Escribe en el archivo la respuesta como comentario en el código.
 
-~~~html
-<!DOCTYPE html>
-<html>
-<head>
-	<meta charset="utf-8">
-	<style>
-		p {
-			color: red;
-		}
-	</style>
-</head>
-<body>
-	<div>
-		<p style="color:blue"> Hellowww </p>
-		<p> Goooooood byeeeee !! </p>
-	</div>
-</body>
-</html>
-~~~
-
-##Ejercicio 34:
-Agrega al código el CSS necesario para que todos las etiquetas divs tengan color de **fondo** amarillo, y que sólo el primer párrafo tenga la letra de color blanco
+##Ejercicio 24:
+Agrega al código el CSS necesario para que todos las etiquetas divs tengan color de **fondo** amarillo, y que sólo el primer párrafo tenga la letra de color rosado.
 
 ~~~html
 <!DOCTYPE html>
@@ -710,8 +494,10 @@ Agrega al código el CSS necesario para que todos las etiquetas divs tengan colo
 </html>
 ~~~ 
 
-##Ejercicio 35:
-Agrega estilo a la imagen para que tenga tamaño de 20px.
+##Ejercicio 25:
+Agrega estilos en el ejercicio para que la primera imagen tenga un tamaño (ancho y alto) de 500 pixeles y la segunda tenga un ancho y alto máximo de 500px:
+
+Probar con el navegador achicando la pantalla cual es la diferencia.
 
 ~~~html
 <!DOCTYPE html>
@@ -725,40 +511,15 @@ Agrega estilo a la imagen para que tenga tamaño de 20px.
 <body>
 
 	<img src="images/logo.png" alt="logo desafio latam" >
-
-</body>
-</html>
-~~~
-
-##Ejercicio 36:
-Cuál es el error?
-
-~~~html
-<!DOCTYPE html>
-<html>
-<head>
-	<meta charset="utf-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title></title>
-	<link rel="stylesheet" href="">
-	<style>
-		src {
-			width: 30px;
-		}
-	</style>
-</head>
-<body>
-
 	<img src="images/logo.png" alt="logo desafio latam" >
 
 </body>
 </html>
 ~~~
 
-##Ejercicio 37:
+##Ejercicio 26:
 
-¿Cuales son los errores?
-Además modifica el código para que sólo al etiqueta h1 tenga la tipografía Slabo.
+Corrige los errores y además modifica el código para que sólo al etiqueta h1 tenga la tipografía Slabo.
 
 ~~~html
 <!DOCTYPE html>
@@ -783,28 +544,6 @@ Además modifica el código para que sólo al etiqueta h1 tenga la tipografía S
 ~~~
 
 
-##Ejercicio 38:
-
-
-**114000 p:**
-Cuál es el error?
-
-~~~html
-<!DOCTYPE html>
-<html>
-<head>
-	<meta charset="utf-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title></title>
-	<link rel="stylesheet" href="">
-</head>
-<body>
-	<div style="background-color:rgb(red)">
-		 <p>  ¿Es el fondo de color Rojo?  </p>
-	</div>
-</body>
-</html>
-~~~
 
 
 
